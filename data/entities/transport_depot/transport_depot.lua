@@ -221,7 +221,7 @@ local supply_depot_chest =
   fast_replaceable_group = "container",
   scale_info_icons = false,
   selection_box = selection_box,
-  inventory_size = 100,
+  inventory_size = 400,
   module_slots = 0,
   open_sound = { filename = "__base__/sound/metallic-chest-open.ogg", volume = 0.5 },
   close_sound = { filename = "__base__/sound/metallic-chest-close.ogg", volume = 0.5 },
